@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BippityBoppity/ProjectContext.unity
+  isLoaded: 1
+  isActive: 1
